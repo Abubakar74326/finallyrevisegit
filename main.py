@@ -6,3 +6,7 @@ familynamemember = {"ali":1, "junaid":5}
 print(familynamemember)
 
 print("hussnain")
+print("abubakar")
+print("ali")
+print("hasan")
+print("sham")
